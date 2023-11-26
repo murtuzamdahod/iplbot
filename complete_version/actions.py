@@ -3,8 +3,7 @@ import logging
 import requests
 import json
 from rasa_core_sdk import Action
-
-logger = logging.getLogger(__name__)
+print("Hello")
 
 API_URL = "https://cricapi.com/api/"
 API_KEY = ""
